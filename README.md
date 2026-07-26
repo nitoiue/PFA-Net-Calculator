@@ -6,16 +6,15 @@ The CLI Application takes the user's gross income and outputs the income after t
 ## Screenshots
 The program succesfully calculates a freelancer's net income based on the gross income and expenses (if any) with Romanian taxes:
 
-<img width="379" height="115" alt="Screenshot 2026-07-26 at 22 34 21" src="https://github.com/user-attachments/assets/ca64800c-7565-4b8c-b52d-b943d3e45947" />
-
+<img width="426" height="108" alt="Screenshot 2026-07-26 at 22 34 45" src="https://github.com/user-attachments/assets/e917d25f-b328-4290-8f04-c38e8df11435" />
 
 It can catch errors such as if the user inputs a string instead of a float:
 
-<img width="403" height="171" alt="Screenshot 2026-07-26 at 22 35 40" src="https://github.com/user-attachments/assets/17cba0a8-175a-442f-a2bb-225526fc356a" />
+<img width="403" height="171" alt="Screenshot 2026-07-26 at 22 35 40" src="https://github.com/user-attachments/assets/6ab6f137-88a6-41af-add8-fbbde3078245" />
 
 Or if the user's expenses are higher than the revenue:
 
-<img width="426" height="108" alt="Screenshot 2026-07-26 at 22 34 45" src="https://github.com/user-attachments/assets/8c7c410a-06a3-45ac-9d58-36d8121dae4b" />
+<img width="379" height="115" alt="Screenshot 2026-07-26 at 22 34 21" src="https://github.com/user-attachments/assets/73d6e69e-14ea-47de-9c97-36cc5b74681f" />
 
 ## Architecture & Defensive Programming
   The code contains multiple functions in order to have a straight-forward logic that can be accessible to any future coders reviewing it.
