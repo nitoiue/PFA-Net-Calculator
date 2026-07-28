@@ -6,7 +6,7 @@ The CLI Application takes the user's gross income and outputs the income after t
 ## Screenshots
 The program succesfully calculates a freelancer's net income based on the gross income and expenses (if any) with Romanian taxes:
 
-<img width="426" height="108" alt="Screenshot 2026-07-26 at 22 34 45" src="https://github.com/user-attachments/assets/e917d25f-b328-4290-8f04-c38e8df11435" />
+<img width="379" height="115" alt="Screenshot 2026-07-26 at 22 34 21" src="https://github.com/user-attachments/assets/73d6e69e-14ea-47de-9c97-36cc5b74681f" />
 
 It can catch errors such as if the user inputs a string instead of a float:
 
@@ -14,7 +14,7 @@ It can catch errors such as if the user inputs a string instead of a float:
 
 Or if the user's expenses are higher than the revenue:
 
-<img width="379" height="115" alt="Screenshot 2026-07-26 at 22 34 21" src="https://github.com/user-attachments/assets/73d6e69e-14ea-47de-9c97-36cc5b74681f" />
+<img width="426" height="108" alt="Screenshot 2026-07-26 at 22 34 45" src="https://github.com/user-attachments/assets/e917d25f-b328-4290-8f04-c38e8df11435" />
 
 ## Architecture & Defensive Programming
   The code contains multiple functions in order to have a straight-forward logic that can be accessible to any future coders reviewing it.
